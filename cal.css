@@ -1,0 +1,11 @@
+nav{
+    height:85px;
+    background-color: rgb(174, 167, 167);
+}
+table input [type="button"]
+{
+    background-color: alicebluewhite;
+    color: black;
+    border-radius: 5px;
+    border:none
+}
