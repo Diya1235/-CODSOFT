@@ -1,0 +1,40 @@
+nav{
+    height:80px;
+    background-color: black;
+    margin: 0px;
+}
+nav ul{
+   float:right;
+   align-items: top;
+   margin-top: 20px;
+}
+nav ul li{
+    text-decoration: none;
+    color: #0096FF;
+    display: inline-block;
+    margin: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 23px;
+
+}
+body{
+    background-color: black;
+}
+li:hover
+{
+    
+   transform:scale(1.5);
+   color:rgb(59, 190, 190);
+    transition: 0.7s;
+  text-shadow: none;
+}
+.a
+{
+    float:left;
+    margin:10px;
+}
+.b
+{
+    float:left;
+    margin:10px;
+}
